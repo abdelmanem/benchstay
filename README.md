@@ -37,5 +37,5 @@ BenchStay is a hotel analytics dashboard designed to help hotel managers track a
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/benchstay.git
+   git clone https://github.com/abdelmanem/benchstay.git
    cd benchstay
